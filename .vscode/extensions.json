@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "formulahendry.code-runner",
+        "esbenp.prettier-vscode",
+        "hwencc.html-tag-wrapper",
+        "anteprimorac.html-end-tag-labels",
+        "danielsanmedium.dscodegpt",
+        "bradgashler.htmltagwrap"
+    ]
+}
